@@ -1,269 +1,266 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,25:1e293b,50:0ea5e9,75:06b6d4,100:22d3ee&text=ANTONY%20RAJ&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+# ⚡ ANTONY RAJ
 
-<h1>⚡ Software Engineer → AI Engineer</h1>
+### Software Engineer • Python Developer • Future AI Engineer
 
-<p>
-Building intelligent software, exploring AI systems, and creating technology that solves real-world problems.
-</p>
+Building intelligent applications, scalable backend systems, and practical solutions that solve real-world problems.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Python+Developer;Flask+Engineer;REST+API+Developer;Machine+Learning+Explorer;LLM+Enthusiast;Future+AI+Engineer"/>
+<br>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&pause=1200\&color=0EA5E9\&center=true\&vCenter=true\&width=900\&lines=Python+Developer;Flask+Engineer;REST+API+Builder;Application+Support+Professional;Machine+Learning+Explorer;Future+AI+Engineer)
 
 </div>
 
 ---
 
-## 🚀 About Me
+# CURRENT STATUS
 
 ```yaml
 Name: Antony Raj
 
 Location: Tamil Nadu, India
 
-Current Role: Software Engineer
+Role: Software Engineer
 
-Experience:
-  - Software Development
-  - Application Support
-  - Technical Support
-  - Business Operations
-
-Specialization:
-  - Python
-  - Flask
+Focus Areas:
+  - Python Development
+  - Flask Applications
   - REST APIs
-  - SQL
-  - MongoDB
+  - Database Systems
+  - Technical Support
 
-Current Learning:
+Currently Learning:
   - Machine Learning
   - Deep Learning
   - Large Language Models
   - Agentic AI
 
-Goal:
-  Become an AI Engineer and build intelligent systems
-  that create real-world impact.
+Mission:
+  Build intelligent software systems that
+  solve real-world business problems.
 ```
 
 ---
 
-## 🧠 Engineering Journey
+# PROFESSIONAL JOURNEY
 
-```mermaid
-timeline
-
-title Professional Evolution
-
-2016
-: Business Operations
-
-: Customer Service
-
-: Inventory Management
-
-2023
-: Python Development
-
-: Flask Applications
-
-: REST APIs
-
-2024
-: Application Support
-
-: Backend Systems
-
-: Database Operations
-
-2025
-: Machine Learning
-
-: Deep Learning
-
-: AI Applications
-
-Future
-: AI Engineer
-
-: Intelligent Systems Architect
+```text
+Business Operations
+        │
+        ▼
+Software Development
+        │
+        ▼
+Application Support
+        │
+        ▼
+Machine Learning
+        │
+        ▼
+Large Language Models
+        │
+        ▼
+Agentic AI
+        │
+        ▼
+AI Engineer
 ```
+
+My journey combines:
+
+✓ Business Operations Experience
+
+✓ Customer Service & Problem Solving
+
+✓ Software Development
+
+✓ Application Support
+
+✓ Continuous Learning in Artificial Intelligence
+
+This combination helps me approach software from both technical and business perspectives.
 
 ---
 
-## ⚙️ Technology Stack
+# TECHNOLOGY STACK
 
-### Languages
+### Programming
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 
-### Frameworks
+### Backend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flask"/>
-</p>
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
 
 ### Databases
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
-</p>
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
 
 ### Tools
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
+
+---
+
+# FEATURED PROJECTS
+
+## 🎯 Candidate Assessment Platform
+
+A web-based candidate evaluation platform designed to automate assessment workflows.
+
+### Features
+
+* Candidate Registration
+* Assessment Management
+* Automated Scoring
+* HR Dashboard
+* Reporting & Analytics
+
+### Technology
+
+```text
+Python
+Flask
+SQLite
+HTML
+CSS
+JavaScript
+```
+
+---
+
+## 🤖 AI Recruitment Assistant
+
+An upcoming project focused on intelligent hiring workflows.
+
+### Planned Features
+
+* Resume Analysis
+* Candidate Ranking
+* AI Feedback
+* Interview Assistance
+* Analytics Dashboard
+* LLM Integration
+
+---
+
+# LEARNING ROADMAP
+
+```text
+Python                    ████████████████████
+
+Flask                     ██████████████████
+
+REST APIs                 █████████████████
+
+SQL                       ████████████████
+
+MongoDB                   ███████████████
+
+Machine Learning          ███████████
+
+Deep Learning             ████████
+
+Large Language Models     ██████
+
+Agentic AI                ████
+```
+
+---
+
+# AI ENGINEERING ROADMAP
+
+```text
+Software Engineering
+        │
+        ▼
+Machine Learning
+        │
+        ▼
+Deep Learning
+        │
+        ▼
+Generative AI
+        │
+        ▼
+Large Language Models
+        │
+        ▼
+Agentic AI
+        │
+        ▼
+AI Engineer
+```
+
+---
+
+# GITHUB ANALYTICS
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🌌 AI Roadmap
-
-```mermaid
-flowchart TD
-
-A[Python]
-
-A --> B[Software Engineering]
-
-B --> C[Machine Learning]
-
-C --> D[Deep Learning]
-
-D --> E[Generative AI]
-
-E --> F[Large Language Models]
-
-F --> G[Agentic AI]
-
-G --> H[AI Engineer]
-```
-
----
-
-## 🎯 Featured Projects
-
-### Candidate Assessment Platform
-
-```yaml
-Status:
-  Active
-
-Tech Stack:
-  Python
-  Flask
-  SQLite
-
-Features:
-  Candidate Registration
-  Assessment Engine
-  Automated Scoring
-  Analytics Dashboard
-  Reporting System
-```
-
----
-
-### AI Recruitment Assistant
-
-```yaml
-Status:
-  In Development
-
-Tech Stack:
-  Python
-  LLMs
-  Agentic AI
-
-Planned Features:
-  Resume Analysis
-  Candidate Ranking
-  AI Interviews
-  Semantic Evaluation
-  Feedback Generation
-```
-
----
-
-## 📊 Skill Matrix
-
-| Skill            | Level                |
-| ---------------- | -------------------- |
-| Python           | ████████████████████ |
-| Flask            | ██████████████████   |
-| REST APIs        | ████████████████     |
-| SQL              | ███████████████      |
-| MongoDB          | █████████████        |
-| Machine Learning | █████████            |
-| Deep Learning    | ███████              |
-| LLMs             | █████                |
-| Agentic AI       | ███                  |
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
-## 🎖️ Current Objectives
+# CURRENT OBJECTIVES
 
 ```text
-✓ Build Production Flask Applications
+[✓] Build Production Flask Applications
 
-✓ Master REST API Development
+[✓] Master REST API Development
 
-✓ Strengthen Database Design Skills
+[✓] Improve Database Design Skills
 
-◉ Learn Machine Learning
+[ ] Learn Machine Learning
 
-◉ Learn Deep Learning
+[ ] Learn Deep Learning
 
-◉ Build LLM Applications
+[ ] Build LLM Applications
 
-◉ Explore Agentic AI Systems
+[ ] Explore Agentic AI Systems
 
-◉ Transition into AI Engineering
+[ ] Become AI Engineer
 ```
 
 ---
 
-## 💡 Philosophy
+# PHILOSOPHY
 
-> “Technology becomes valuable when it transforms ideas into real-world impact.”
+> Technology becomes meaningful when it creates real value for real people.
 
 ---
 
-## 🌍 Connect With Me
+# CONNECT
 
 <p align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+GitHub
 </a>
-
+•
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+LinkedIn
 </a>
-
+•
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+Email
 </a>
 
 </p>
@@ -272,8 +269,6 @@ Planned Features:
 
 <div align="center">
 
-# ⚡ Building Tomorrow's Intelligent Systems
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:22d3ee,50:0891b2,100:0f172a"/>
+### Building the next version of myself, one project at a time.
 
 </div>
