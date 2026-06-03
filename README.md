@@ -1,122 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,30:1E293B,60:0EA5E9,100:06B6D4&text=ANTONY%20RAJ&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,25:1e293b,50:0ea5e9,75:06b6d4,100:22d3ee&text=ANTONY%20RAJ&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-# ⚡ SOFTWARE ENGINEER • PYTHON DEVELOPER • AI ENTHUSIAST
+<h1>⚡ Software Engineer → AI Engineer</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+Intelligent+Applications;Python+%7C+Flask+%7C+REST+APIs;Exploring+Machine+Learning+and+LLMs;Future+AI+Engineer;Always+Learning+Always+Building"/>
+<p>
+Building intelligent software, exploring AI systems, and creating technology that solves real-world problems.
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Python+Developer;Flask+Engineer;REST+API+Developer;Machine+Learning+Explorer;LLM+Enthusiast;Future+AI+Engineer"/>
 
 </div>
 
 ---
 
-# 🖥️ AI COMMAND CENTER
+## 🚀 About Me
 
 ```yaml
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Name: Antony Raj
 
-STATUS      : ONLINE
+Location: Tamil Nadu, India
 
-NAME        : Antony Raj
+Current Role: Software Engineer
 
-LOCATION    : Tamil Nadu, India
+Experience:
+  - Software Development
+  - Application Support
+  - Technical Support
+  - Business Operations
 
-ROLE        : Software Engineer
+Specialization:
+  - Python
+  - Flask
+  - REST APIs
+  - SQL
+  - MongoDB
 
-SPECIALITY  : Python Development
-              Flask Applications
-              REST APIs
-              Technical Support
+Current Learning:
+  - Machine Learning
+  - Deep Learning
+  - Large Language Models
+  - Agentic AI
 
-MISSION     : Building intelligent software
-              that solves real-world problems
-
-NEXT TARGET : AI Engineer
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Goal:
+  Become an AI Engineer and build intelligent systems
+  that create real-world impact.
 ```
 
 ---
 
-# 🌟 ABOUT ME
-
-I am a Software Engineer with experience in application development,
-technical support, operations management, and customer-focused solutions.
-
-My professional journey combines software engineering expertise with
-real-world business operations experience, enabling me to build practical
-and scalable solutions.
-
-Currently, I am expanding my expertise in:
-
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 🔥 Large Language Models (LLMs)
-- ⚡ Agentic AI Systems
-- 🚀 Intelligent Automation
-
----
-
-# 🛤️ CAREER JOURNEY
+## 🧠 Engineering Journey
 
 ```mermaid
 timeline
-title Professional Journey
 
-2016 : Family Business Operations
-     : Inventory Management
-     : Customer Service
-     : Administration
+title Professional Evolution
 
-2023 : Software Development
-     : SCH Infotech Pvt. Ltd.
-     : Python Development
-     : Flask Applications
-     : REST APIs
+2016
+: Business Operations
 
-2024 : Application Support
-     : Troubleshooting
-     : Backend Maintenance
-     : Database Operations
+: Customer Service
 
-2025 : AI Exploration
-     : Machine Learning
-     : LLM Applications
-     : Agentic AI
+: Inventory Management
 
-Future : AI Engineer
-       : Intelligent Systems Architect
+2023
+: Python Development
+
+: Flask Applications
+
+: REST APIs
+
+2024
+: Application Support
+
+: Backend Systems
+
+: Database Operations
+
+2025
+: Machine Learning
+
+: Deep Learning
+
+: AI Applications
+
+Future
+: AI Engineer
+
+: Intelligent Systems Architect
 ```
 
 ---
 
-# ⚙️ TECH ARSENAL
+## ⚙️ Technology Stack
 
-## 💻 Programming Languages
+### Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql"/>
 </p>
 
----
-
-## 🧩 Frameworks & Libraries
+### Frameworks
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flask"/>
 </p>
 
----
-
-## 🗄️ Databases
+### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
 </p>
 
----
-
-## 🛠️ Development Tools
+### Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
@@ -124,36 +120,14 @@ Future : AI Engineer
 
 ---
 
-# 🧠 CURRENT LEARNING MATRIX
-
-```text
-Python                    ████████████████████ 95%
-
-Flask                     ██████████████████   90%
-
-REST APIs                 █████████████████    85%
-
-SQL                       ████████████████     80%
-
-MongoDB                   ███████████████      75%
-
-Machine Learning          ████████████         60%
-
-Deep Learning             █████████            45%
-
-Large Language Models     ████████             40%
-
-Agentic AI                ██████               30%
-```
-
----
-
-# 🤖 AI ROADMAP
+## 🌌 AI Roadmap
 
 ```mermaid
-flowchart LR
+flowchart TD
 
-A[Python] --> B[Software Development]
+A[Python]
+
+A --> B[Software Engineering]
 
 B --> C[Machine Learning]
 
@@ -165,81 +139,72 @@ E --> F[Large Language Models]
 
 F --> G[Agentic AI]
 
-G --> H[Intelligent Systems]
-
-H --> I[AI Engineer]
+G --> H[AI Engineer]
 ```
 
 ---
 
-# 🚀 FEATURED PROJECTS
+## 🎯 Featured Projects
 
-## 🎯 Candidate Assessment Platform
-
-### Overview
-
-A web-based candidate evaluation platform designed to automate assessments,
-evaluate responses, and generate reports.
-
-### Features
-
-✅ Candidate Registration
-
-✅ Automated Scoring
-
-✅ Reporting System
-
-✅ HR Dashboard
-
-✅ Candidate Tracking
-
-### Technology Stack
+### Candidate Assessment Platform
 
 ```yaml
-Backend:
-  - Python
-  - Flask
+Status:
+  Active
 
-Database:
-  - SQLite
+Tech Stack:
+  Python
+  Flask
+  SQLite
 
 Features:
-  - Evaluation Engine
-  - Reporting Module
-  - Dashboard Analytics
+  Candidate Registration
+  Assessment Engine
+  Automated Scoring
+  Analytics Dashboard
+  Reporting System
 ```
 
 ---
 
-## 🤖 AI Recruitment Platform
-
-### Vision
-
-Building intelligent hiring solutions using modern AI technologies.
-
-### Planned Features
+### AI Recruitment Assistant
 
 ```yaml
-Features:
+Status:
+  In Development
 
-  - AI Generated Questions
+Tech Stack:
+  Python
+  LLMs
+  Agentic AI
 
-  - Semantic Evaluation
-
-  - Candidate Ranking
-
-  - Feedback Generation
-
-  - Analytics Dashboard
-
-  - LLM Integration
-
-  - Agentic AI Workflows
+Planned Features:
+  Resume Analysis
+  Candidate Ranking
+  AI Interviews
+  Semantic Evaluation
+  Feedback Generation
 ```
 
 ---
 
-# 📈 GITHUB ANALYTICS
+## 📊 Skill Matrix
+
+| Skill            | Level                |
+| ---------------- | -------------------- |
+| Python           | ████████████████████ |
+| Flask            | ██████████████████   |
+| REST APIs        | ████████████████     |
+| SQL              | ███████████████      |
+| MongoDB          | █████████████        |
+| Machine Learning | █████████            |
+| Deep Learning    | ███████              |
+| LLMs             | █████                |
+| Agentic AI       | ███                  |
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -249,10 +214,6 @@ Features:
 
 </div>
 
----
-
-# 📊 CONTRIBUTION ACTIVITY
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
@@ -261,116 +222,43 @@ Features:
 
 ---
 
-# 🏆 PROFESSIONAL STRENGTHS
+## 🎖️ Current Objectives
 
-<table>
-<tr>
-<td>
+```text
+✓ Build Production Flask Applications
 
-### 💻 Development
+✓ Master REST API Development
 
-- Python
-- Flask
-- REST APIs
-- SQL
-- MongoDB
+✓ Strengthen Database Design Skills
 
-</td>
+◉ Learn Machine Learning
 
-<td>
+◉ Learn Deep Learning
 
-### 🔧 Support
+◉ Build LLM Applications
 
-- Application Support
-- Troubleshooting
-- Testing
-- Deployment
+◉ Explore Agentic AI Systems
 
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 📊 Operations
-
-- Inventory Management
-- Documentation
-- Administration
-- Reporting
-
-</td>
-
-<td>
-
-### 🤝 Soft Skills
-
-- Communication
-- Team Coordination
-- Problem Solving
-- Customer Service
-
-</td>
-</tr>
-</table>
-
----
-
-# 🎯 CURRENT OBJECTIVES
-
-```yaml
-2026 Goals:
-
-  ✔ Master Python
-
-  ✔ Build Advanced Flask Applications
-
-  ✔ Learn Machine Learning
-
-  ✔ Understand Deep Learning
-
-  ✔ Explore LLM Architectures
-
-  ✔ Build Agentic AI Systems
-
-  ✔ Become an AI Engineer
+◉ Transition into AI Engineering
 ```
 
 ---
 
-# 🌍 PHILOSOPHY
+## 💡 Philosophy
 
-> "Technology creates value when it solves real-world problems."
-
----
-
-# ☕ FUN FACTS
-
-```yaml
-When Not Coding:
-
-  - Learning AI Concepts
-
-  - Exploring New Technologies
-
-  - Building Personal Projects
-
-  - Improving Communication Skills
-
-  - Studying Intelligent Systems
-```
+> “Technology becomes valuable when it transforms ideas into real-world impact.”
 
 ---
 
-# 📫 CONNECT WITH ME
+## 🌍 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -378,40 +266,14 @@ When Not Coding:
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-</div>
-
----
-
-# 🚀 FUTURE DESTINATION
-
-```text
-Software Engineer
-        │
-        ▼
-Machine Learning
-        │
-        ▼
-Deep Learning
-        │
-        ▼
-Generative AI
-        │
-        ▼
-Large Language Models
-        │
-        ▼
-Agentic AI
-        │
-        ▼
-AI Engineer
-```
+</p>
 
 ---
 
 <div align="center">
 
-## ⚡ BUILDING TOMORROW'S INTELLIGENT SYSTEMS ⚡
+# ⚡ Building Tomorrow's Intelligent Systems
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:06B6D4,50:0EA5E9,100:0F172A&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:22d3ee,50:0891b2,100:0f172a"/>
 
 </div>
