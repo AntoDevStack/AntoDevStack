@@ -1,135 +1,249 @@
-<p align="center">
-  <img src="images/antony-os-banner.png" width="100%">
-</p>
-# ⚡ ANTONY RAJ
+````markdown
+<div align="center">
+
+# ANTONY RAJ
 
 ### Software Engineer → AI Engineer
 
-Building Intelligent Systems For Real-World Impact
+Building intelligent systems, solving real-world problems, and continuously learning the technologies shaping the future.
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1500&color=0EA5E9&center=true&vCenter=true&width=900&lines=Software+Engineer;Python+Developer;Flask+Engineer;REST+API+Developer;Machine+Learning+Explorer;Future+AI+Engineer"/>
+
+<br>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0ea5e9&style=flat" />
+</p>
+
+</div>
 
 ---
 
-## 🚀 Current Status
+## About
+
+I am a Software Engineer with experience in software development, application support, and business operations.
+
+My current focus is building strong foundations in:
+
+- Python Development
+- Backend Engineering
+- REST API Design
+- Machine Learning
+- Large Language Models (LLMs)
+- Agentic AI Systems
+
+My long-term goal is to become an AI Engineer who designs intelligent systems that create meaningful real-world impact.
+
+---
+
+## Journey
+
+```text
+Business Operations
+        │
+        ▼
+Software Development
+        │
+        ▼
+Application Support
+        │
+        ▼
+Machine Learning
+        │
+        ▼
+Large Language Models
+        │
+        ▼
+Agentic AI
+        │
+        ▼
+AI Engineer
+````
+
+---
+
+## Current Focus
 
 ```yaml
 Role:
   Software Engineer
 
-Location:
-  Tamil Nadu, India
+Learning:
+  Machine Learning
+  Deep Learning
+  Large Language Models
+  Agentic AI
 
-Focus:
-  Python
-  Flask
-  REST APIs
-  AI Engineering
+Building:
+  Intelligent Software Systems
 
-Status:
-  Learning • Growing • Building
+Mission:
+  Become an AI Engineer
 ```
 
 ---
 
-## 🧠 Professional Journey
-
-```text
-2016  Business Operations
-  │
-  ▼
-2023  Python Development
-  │
-  ▼
-2024  Application Support
-  │
-  ▼
-2025  Machine Learning & AI
-  │
-  ▼
-Future AI Engineer
-```
-
----
-
-## 🛠 Technology Stack
+## Technology Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+</p>
 
-### Frameworks
+### Backend
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+<p>
+<img src="https://skillicons.dev/icons?i=flask" />
+</p>
 
 ### Databases
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
 ### Candidate Assessment Platform
 
-- Candidate Registration
-- Assessment Engine
-- Automated Scoring
-- Analytics Dashboard
-- Reporting System
+A Flask-based candidate assessment system featuring:
+
+* Candidate Registration
+* Educational Qualification Tracking
+* AI-Generated Assessments
+* Automated Evaluation
+* HR Dashboard
+* Analytics and Reporting
+
+---
 
 ### AI Recruitment Assistant
 
-- Resume Analysis
-- Candidate Ranking
-- AI Interviews
-- Semantic Evaluation
-- Feedback Generation
+A next-generation recruitment platform focused on:
+
+* Resume Analysis
+* Candidate Ranking
+* Interview Assistance
+* Semantic Evaluation
+* AI Feedback Generation
+
+---
 
 ### Machine Learning Playground
 
-- Data Analysis
-- Model Training
-- ML Experiments
-- Visualization
+A dedicated repository for:
+
+* Machine Learning Experiments
+* Data Analysis
+* Model Development
+* Learning Projects
+* AI Research
 
 ---
 
-## 📊 GitHub Analytics
+## Engineering Roadmap
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+```text
+Software Engineering
+        │
+        ▼
+Machine Learning
+        │
+        ▼
+Deep Learning
+        │
+        ▼
+Generative AI
+        │
+        ▼
+Large Language Models
+        │
+        ▼
+Agentic AI
+        │
+        ▼
+AI Engineer
+```
+
+---
+
+## Current Objectives
+
+* [x] Build Production Flask Applications
+* [x] Master REST API Development
+* [x] Improve Database Design Skills
+* [ ] Learn Machine Learning
+* [ ] Learn Deep Learning
+* [ ] Build LLM Applications
+* [ ] Explore Agentic AI Systems
+* [ ] Become AI Engineer
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff00&hide_border=true&line=0ea5e9&point=0ea5e9"/>
+
+</div>
+
+---
+
+## Philosophy
+
+> Technology becomes valuable when it transforms ideas into real-world impact.
+
+---
+
+## Connect
+
+<p align="left">
+
+<a href="https://github.com/YOUR_USERNAME">
+GitHub
+</a>
+
+<br>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+LinkedIn
+</a>
+
+<br>
+
+<a href="mailto:YOUR_EMAIL">
+Email
+</a>
+
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
-
 ---
 
-## 🎯 Current Objectives
+<div align="center">
 
-- [x] Build Production Flask Applications
-- [x] Master REST API Development
-- [x] Strengthen Database Design
-- [ ] Learn Machine Learning
-- [ ] Learn Deep Learning
-- [ ] Build LLM Applications
-- [ ] Explore Agentic AI Systems
-- [ ] Become AI Engineer
+### Building the next version of myself, one project at a time.
 
----
-
-## 💭 Philosophy
-
-> Technology becomes meaningful when it creates value for real people.
-
----
-
-## 🌐 Connect
-
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+</div>
+```
