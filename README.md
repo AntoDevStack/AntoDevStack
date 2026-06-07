@@ -1,197 +1,280 @@
-````markdown
 <div align="center">
 
-# ANTONY RAJ
+# ◉ ANTONY AI CORE
 
-### Software Engineer → AI Engineer
+### SYSTEM INITIALIZED
 
-Building intelligent systems, solving real-world problems, and continuously learning the technologies shaping the future.
+```text
+AI CORE STATUS
 
-<br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1500&color=0EA5E9&center=true&vCenter=true&width=900&lines=Software+Engineer;Python+Developer;Flask+Engineer;REST+API+Developer;Machine+Learning+Explorer;Future+AI+Engineer"/>
+SYSTEM        : ONLINE
+OPERATOR      : ANTONY RAJ
+ROLE          : SOFTWARE ENGINEER
+TARGET        : AI ENGINEER
 
-<br>
+MISSION       :
+BUILD INTELLIGENT SYSTEMS
+FOR REAL-WORLD IMPACT
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0ea5e9&style=flat" />
-</p>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&lines=ANTONY+AI+CORE+ONLINE;Software+Engineer;Python+Developer;Flask+Engineer;Machine+Learning+Explorer;Future+AI+Engineer"/>
 
 </div>
 
 ---
 
-## About
-
-I am a Software Engineer with experience in software development, application support, and business operations.
-
-My current focus is building strong foundations in:
-
-- Python Development
-- Backend Engineering
-- REST API Design
-- Machine Learning
-- Large Language Models (LLMs)
-- Agentic AI Systems
-
-My long-term goal is to become an AI Engineer who designs intelligent systems that create meaningful real-world impact.
-
----
-
-## Journey
-
-```text
-Business Operations
-        │
-        ▼
-Software Development
-        │
-        ▼
-Application Support
-        │
-        ▼
-Machine Learning
-        │
-        ▼
-Large Language Models
-        │
-        ▼
-Agentic AI
-        │
-        ▼
-AI Engineer
-````
-
----
-
-## Current Focus
+# ◉ CORE IDENTITY
 
 ```yaml
-Role:
+Name: Antony Raj
+
+System Version: 1.0
+
+Current Role:
   Software Engineer
 
-Learning:
+Current Focus:
+  Python Development
+  Flask Applications
+  REST APIs
+  Backend Systems
+
+Learning Modules:
   Machine Learning
   Deep Learning
   Large Language Models
   Agentic AI
 
-Building:
-  Intelligent Software Systems
+Current State:
+  Active Development
 
-Mission:
-  Become an AI Engineer
+Future State:
+  AI Engineer
 ```
 
 ---
 
-## Technology Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-## Featured Projects
-
-### Candidate Assessment Platform
-
-A Flask-based candidate assessment system featuring:
-
-* Candidate Registration
-* Educational Qualification Tracking
-* AI-Generated Assessments
-* Automated Evaluation
-* HR Dashboard
-* Analytics and Reporting
-
----
-
-### AI Recruitment Assistant
-
-A next-generation recruitment platform focused on:
-
-* Resume Analysis
-* Candidate Ranking
-* Interview Assistance
-* Semantic Evaluation
-* AI Feedback Generation
-
----
-
-### Machine Learning Playground
-
-A dedicated repository for:
-
-* Machine Learning Experiments
-* Data Analysis
-* Model Development
-* Learning Projects
-* AI Research
-
----
-
-## Engineering Roadmap
+# ◉ SYSTEM EVOLUTION
 
 ```text
-Software Engineering
+[BOOT PHASE]
+
+Business Operations
         │
         ▼
+
+Software Development
+        │
+        ▼
+
+Application Support
+        │
+        ▼
+
 Machine Learning
         │
         ▼
+
 Deep Learning
         │
         ▼
-Generative AI
-        │
-        ▼
+
 Large Language Models
         │
         ▼
+
 Agentic AI
         │
         ▼
-AI Engineer
+
+AI ENGINEER
 ```
 
 ---
 
-## Current Objectives
+# ◉ LOADED MODULES
 
-* [x] Build Production Flask Applications
-* [x] Master REST API Development
-* [x] Improve Database Design Skills
-* [ ] Learn Machine Learning
-* [ ] Learn Deep Learning
-* [ ] Build LLM Applications
-* [ ] Explore Agentic AI Systems
-* [ ] Become AI Engineer
+## ACTIVE
+
+```text
+[✓] Python Engine
+
+[✓] Flask Framework
+
+[✓] REST API Systems
+
+[✓] Database Architecture
+
+[✓] Application Support
+
+[✓] Problem Solving Engine
+```
+
+## TRAINING
+
+```text
+[◉] Machine Learning
+
+[◉] Deep Learning
+
+[◉] Generative AI
+
+[◉] Large Language Models
+
+[◉] Agentic AI Systems
+```
 
 ---
 
-## GitHub Analytics
+# ◉ TECHNOLOGY MATRIX
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=flask,mongodb,mysql,sqlite"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</div>
+
+---
+
+# ◉ ACTIVE SYSTEMS
+
+## SYSTEM 01
+
+### Candidate Assessment Platform
+
+```text
+STATUS : ONLINE
+
+MODULES
+
+✓ Candidate Registration
+
+✓ Education Tracking
+
+✓ AI Assessment Engine
+
+✓ Automated Evaluation
+
+✓ HR Dashboard
+
+✓ Analytics & Reporting
+```
+
+---
+
+## SYSTEM 02
+
+### AI Recruitment Assistant
+
+```text
+STATUS : DEVELOPMENT
+
+MODULES
+
+◉ Resume Analysis
+
+◉ Candidate Ranking
+
+◉ AI Interview Assistant
+
+◉ Semantic Evaluation
+
+◉ Feedback Generation
+```
+
+---
+
+## SYSTEM 03
+
+### Machine Learning Playground
+
+```text
+STATUS : RESEARCH
+
+MODULES
+
+◉ Data Analysis
+
+◉ Model Development
+
+◉ Training Experiments
+
+◉ AI Research
+```
+
+---
+
+# ◉ ENGINEERING ROADMAP
+
+```text
+SOFTWARE ENGINEER
+        │
+        ▼
+
+MACHINE LEARNING
+        │
+        ▼
+
+DEEP LEARNING
+        │
+        ▼
+
+GENERATIVE AI
+        │
+        ▼
+
+LARGE LANGUAGE MODELS
+        │
+        ▼
+
+AGENTIC AI
+        │
+        ▼
+
+AI ENGINEER
+```
+
+---
+
+# ◉ OBJECTIVES
+
+```text
+CURRENT OBJECTIVES
+
+[✓] Build Production Flask Applications
+
+[✓] Master REST API Development
+
+[✓] Improve Database Design
+
+[✓] Strengthen Backend Engineering
+
+[ ] Learn Machine Learning
+
+[ ] Learn Deep Learning
+
+[ ] Build LLM Applications
+
+[ ] Explore Agentic AI Systems
+
+[ ] Become AI Engineer
+```
+
+---
+
+# ◉ SYSTEM ANALYTICS
 
 <div align="center">
 
@@ -205,45 +288,110 @@ AI Engineer
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff00&hide_border=true&line=0ea5e9&point=0ea5e9"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff00&hide_border=true&line=00D4FF&point=00D4FF"/>
 
 </div>
 
 ---
 
-## Philosophy
+# ◉ TERMINAL
 
-> Technology becomes valuable when it transforms ideas into real-world impact.
+```bash
+visitor@github:~$
+
+initialize_core
+
+--------------------------------
+
+CORE STATUS
+
+ONLINE
+
+--------------------------------
+
+whoami
+
+Antony Raj
+
+--------------------------------
+
+role
+
+Software Engineer
+
+--------------------------------
+
+current_focus
+
+Python
+Flask
+REST APIs
+Machine Learning
+
+--------------------------------
+
+future_target
+
+AI Engineer
+
+--------------------------------
+
+mission
+
+Build intelligent systems
+that create real-world impact.
+
+--------------------------------
+
+system_status
+
+RUNNING
+```
 
 ---
 
-## Connect
+# ◉ CORE PHILOSOPHY
 
-<p align="left">
+> Technology becomes meaningful when it creates value for real people.
 
-<a href="https://github.com/YOUR_USERNAME">
-GitHub
-</a>
+---
 
-<br>
+# ◉ NETWORK
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-LinkedIn
-</a>
+<div align="center">
 
-<br>
+[GitHub](https://github.com/YOUR_USERNAME)
 
-<a href="mailto:YOUR_EMAIL">
-Email
-</a>
+•
 
-</p>
+[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+
+•
+
+[Email](mailto:YOUR_EMAIL)
+
+</div>
 
 ---
 
 <div align="center">
 
-### Building the next version of myself, one project at a time.
+# AI CORE STATUS
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SYSTEM STATUS : ONLINE
+
+BUILD STATUS  : IN PROGRESS
+
+CURRENT MODE  : LEARNING
+
+TARGET MODE   : AI ENGINEER
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+### Building The Next Version Of Myself
 
 </div>
-```
