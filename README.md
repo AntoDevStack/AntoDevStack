@@ -1,44 +1,54 @@
-# Hi there, I'm Antony Raj 👋
+# 🖤 **Your Name**  
+### _Developer • Designer • Creator_
 
-### 🛠️ About Me
-
-I'm a Python Developer passionate about Artificial Intelligence, Machine Learning, and building practical software solutions. I enjoy developing AI-powered web applications, exploring modern technologies, and continuously improving my software engineering skills.
-
-* 🔭 **Current focus:** Building AI-powered web applications using Python & Flask
-* 🌱 **Currently learning:** Machine Learning, Deep Learning, Large Language Models (LLMs), Generative AI, and Agentic AI
-* 💡 **Interested in:** AI Agents, Backend Development, Automation, and Intelligent Software Systems
-* 🛠️ **Featured Projects:** AI-based HR Candidate Assessment System, English Assessment Platform, and Flask Web Applications
-* 💬 **Ask me about:** Python, Flask, AI Integration, REST APIs, SQLite, and Backend Development
-* 🎯 **Goal:** Becoming an AI Engineer capable of building intelligent real-world applications
-* 📧 **Reach me:** antony.raj@example.com
-
-[![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com)
+> “Code is where logic meets art.”
 
 ---
 
-### 💻 Core Tech Stack
-
-#### 🚀 Languages & Frameworks
-![Python](https://shields.io) ![SQL](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io)
-
-![Flask](https://shields.io) ![SQLite](https://shields.io)
-
-#### 🤖 AI & Machine Learning
-![Machine Learning](https://shields.io) ![Generative AI](https://shields.io) ![LLMs & Agents](https://shields.io)
-
-#### 🛠️ Developer Tools
-![Git](https://shields.io) ![VS Code](https://shields.io)
+## ⚙️ Tech Stack
+| Language | Framework | Tools |
+|:--|:--|:--|
+| Python 🐍 | React ⚛️ | Git 🔧 |
+| JavaScript 💻 | Node.js 🌿 | Docker 🐳 |
+| TypeScript 🔷 | Next.js 🚀 | VS Code 🧩 |
 
 ---
 
-### ⏳ Live Coding Productivity (WakaTime)
-
-![WakaTime Stats](https://vercel.app)
+## 🎨 Design Philosophy
+- Minimalism — clarity and purpose in every pixel  
+- Monochrome aesthetics — timeless, focused, and elegant  
+- Human-centered UX — empathy drives innovation  
 
 ---
 
-### 📊 GitHub Metrics
+## 📂 Projects
+| Project | Description | Tech Used |
+|:--|:--|:--|
+| Visionary | AI-powered image enhancer inspired by grayscale realism | Python, OpenCV |
+| Pulse | Real-time analytics dashboard with minimalist UI | React, Node.js |
+| Echo | Portfolio generator with dynamic themes | Next.js, TailwindCSS |
 
-![GitHub Stats](https://vercel.app) 
+---
 
-![Streak Stats](https://herokuapp.com)
+## 🧩 Stats & Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=graywhite)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=graywhite)
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn  
+- Twitter  
+- Portfolio  
+
+---
+
+## 🖤 Style Guide
+Neutral tones for consistency:  
+Font pairing: **Inter** + **Roboto Mono**  
+Mood: confident, modern, grayscale realism.
+
+---
+
+## 🧠 Fun Fact
+I believe every line of code should tell a story — one that’s clean, efficient, and human.
