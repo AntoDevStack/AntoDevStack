@@ -1,55 +1,60 @@
-# 🪐 Hello World, I'm YourName!
+# Hi there, I'm [Your Name] 👋
 
-![Header Banner](https://vercel.app)
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- Profile Image Column -->
+    <td valign="top" width="40%">
+      <img src="YOUR_PROFILE_IMAGE_URL" width="100%" alt="Profile Image" style="border-radius: 16px; border: 1px solid #30363d;"/>
+    </td>
+    <!-- Bio / Introduction Column -->
+    <td valign="top" width="60%" style="padding-left: 20px;">
+      <h3>🛠️ About Me</h3>
+      <p>I am a software engineer focused on building clean, high-performance applications. I love pairing robust engineering architectures with elegant, thoughtful user experiences.</p>
+      <ul>
+        <li>🔭 <b>Current focus:</b> Developing scalable web ecosystems</li>
+        <li>🌱 <b>Learning:</b> Distributed systems & advanced architecture Patterns</li>
+        <li>💬 <b>Ask me about:</b> Frontend optimization or backend infrastructure</li>
+        <li>📧 <b>Reach me:</b> hello@yourdomain.com</li>
+      </ul>
+      <p align="left">
+        <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"/></a>
+        <a href="https://twitter.com"><img src="https://shields.io" alt="X"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com" alt="Typing SVG" />
-  </a>
+---
+
+### 💻 Core Tech Stack
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://shields.io" alt="JS"/>
+  <img src="https://shields.io" alt="TS"/>
+  <img src="https://shields.io" alt="Python"/>
+  <!-- Frameworks -->
+  <img src="https://shields.io" alt="React"/>
+  <img src="https://shields.io" alt="Next"/>
+  <img src="https://shields.io" alt="Node"/>
+  <!-- Tools / Cloud -->
+  <img src="https://shields.io" alt="Docker"/>
+  <img src="https://shields.io" alt="AWS"/>
 </p>
 
+---
+
+### ⏳ Live Coding Productivity (WakaTime)
+
 <p align="center">
-  <img src="https://shields.io" alt="Followers"/>
-  <img src="https://shields.io" alt="Total Stars"/>
+  <img src="https://vercel.app" width="98%" alt="WakaTime Stats"/>
 </p>
 
 ---
 
-### 💫 About Me
-
-I am a passionate software engineer focused on building clean, high-performance web applications. I love automation, interactive UI design, and contributing to open-source projects.
-
-* 🔭 **Current Focus:** Optimizing developer workflows and web performance.
-* 🚀 **Past Experience:** Built scalable APIs and custom internal design tools.
-* ⚡ **Fun Fact:** I design my own SVGs and custom interface elements from scratch.
-
----
-
-### 🛠️ Tech Stack & Tooling
-
-![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![Python](https://shields.io)
-
-![React](https://shields.io) ![Next.js](https://shields.io) ![TailwindCSS](https://shields.io)
-
-![Git](https://shields.io) ![Docker](https://shields.io) ![Figma](https://shields.io)
-
----
-
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://vercel.app)
-
-![Top Languages](https://vercel.app)
-
----
-
-### 🌐 Connect with Me
+### 📊 Github Metrics
 
 <p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://shields.io" alt="Twitter"/>
-  </a>
+  <img src="https://vercel.app" width="49%" alt="GitHub Stats"/>
+  <img src="https://herokuapp.com" width="49%" alt="Streak Stats"/>
 </p>
