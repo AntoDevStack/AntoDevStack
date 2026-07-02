@@ -1,11 +1,7 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Antony] 👋
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <!-- Profile Image Column -->
-    <td valign="top" width="40%">
-      <img src="YOUR_PROFILE_IMAGE_URL" width="100%" alt="Profile Image" style="border-radius: 16px; border: 1px solid #30363d;"/>
-    </td>
     <!-- Bio / Introduction Column -->
     <td valign="top" width="60%" style="padding-left: 20px;">
       <h3>🛠️ About Me</h3>
