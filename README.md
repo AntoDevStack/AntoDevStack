@@ -1,179 +1,141 @@
-# ANTONY AI CORE
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://vercel.app" width="100%" alt="Header Banner" />
+</p>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                            ║
-║                    ANTONY AI CORE                          ║
-║                                                            ║
-║             SOFTWARE ENGINEER → AI ENGINEER                ║
-║                                                            ║
-║             BUILDING INTELLIGENT SYSTEMS                   ║
-║                                                            ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<!-- SUBTITLE LOGS / TYPING EFFECT -->
+<p align="center">
+  <a href="
+  https://git.io
+  ">
+    <img src="https://demolab.com" alt="Typing SVG" />
+  </a>
+</p>
 
----
-
-## SYSTEM STATUS
-
-| MODULE           | STATUS   |
-| ---------------- | -------- |
-| Python Engine    | ONLINE   |
-| Flask Framework  | ONLINE   |
-| REST API Systems | ONLINE   |
-| Database Layer   | ONLINE   |
-| Machine Learning | TRAINING |
-| Deep Learning    | TRAINING |
-| LLM Systems      | TRAINING |
-| Agentic AI       | RESEARCH |
+<p align="center">
+  <img src="
+  https://shields.io
+  " alt="Followers"/>
+  <img src="
+  https://shields.io
+  " alt="Total Stars"/>
+  <img src="
+  https://shields.io
+  " alt="License"/>
+</p>
 
 ---
 
-## ACTIVE MISSIONS
+### 💫 About Me
 
-### CAP-01
+I am a passionate software engineer focused on building clean, high-performance web applications. I love automation, interactive UI design, and contributing to open-source projects.
 
-Candidate Assessment Platform
-
-```text
-STATUS: ACTIVE
-```
-
-Features:
-
-* Candidate Registration
-* AI Assessment Engine
-* Automated Evaluation
-* HR Dashboard
-* Analytics
+- 🔭 **Current Focus:** Optimizing developer workflows and web performance.
+- 🚀 **Past Experience:** Built scalable APIs and custom internal design tools.
+- ⚡ **Fun Fact:** I design my own SVGs and custom interface elements from scratch.
 
 ---
 
-### AIR-01
+### 🛠️ Tech Stack & Tooling
 
-AI Recruitment Assistant
-
-```text
-STATUS: DEVELOPMENT
-```
-
-Features:
-
-* Resume Analysis
-* Candidate Ranking
-* Interview Assistant
-* Semantic Evaluation
-
----
-
-### MLP-01
-
-Machine Learning Playground
-
-```text
-STATUS: RESEARCH
-```
-
-Features:
-
-* Data Analysis
-* Model Training
-* Experiments
-* AI Research
-
----
-
-## EVOLUTION PATH
-
-```text
-Business Operations
-        │
-        ▼
-Software Development
-        │
-        ▼
-Application Support
-        │
-        ▼
-Machine Learning
-        │
-        ▼
-Deep Learning
-        │
-        ▼
-Large Language Models
-        │
-        ▼
-Agentic AI
-        │
-        ▼
-AI Engineer
-```
+<p align="left">
+  <!-- Languages -->
+  <img src="
+  https://shields.io
+  " alt="JavaScript"/>
+  <img src="
+  https://shields.io
+  " alt="TypeScript"/>
+  <img src="
+  https://shields.io
+  " alt="Python"/>
+  
+  <!-- Frameworks & Libraries -->
+  <br />
+  <img src="
+  https://shields.io
+  " alt="React"/>
+  <img src="
+  https://shields.io
+  " alt="NextJS"/>
+  <img src="
+  https://shields.io
+  " alt="TailwindCSS"/>
+  
+  <!-- Tools -->
+  <br />
+  <img src="
+  https://shields.io
+  " alt="Git"/>
+  <img src="
+  https://shields.io
+  " alt="Docker"/>
+  <img src="
+  https://shields.io
+  " alt="Figma"/>
+</p>
 
 ---
 
-## AI CORE TERMINAL
+### 📊 GitHub Statistics
 
-```bash
-visitor@github:~$
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://vercel.app" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://vercel.app" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-whoami
-
-Antony Raj
-
---------------------------------
-
-role
-
-Software Engineer
-
---------------------------------
-
-mission
-
-Build Intelligent Systems
-
---------------------------------
-
-status
-
-ONLINE
-
---------------------------------
-
-target
-
-AI Engineer
-```
+<p align="center">
+  <img src="https://herokuapp.com" width="100%" alt="GitHub Streak" />
+</p>
 
 ---
 
-## SYSTEM ANALYTICS
+### 📈 Contribution Graph 
 
-[GitHub Stats Widget]
-
-[Contribution Graph Widget]
-
-[Streak Widget]
+<p align="center">
+  <img src="https://vercel.app" width="100%" alt="Activity Graph" />
+</p>
 
 ---
 
-## NETWORK
+### 🗂️ Featured Projects
 
-GitHub
+<details>
+  <summary><b>📐 Click to expand: Core Open Source Projects</b></summary>
+  <br />
 
-LinkedIn
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **`readme-ai`** | Automated README generator using AI. | Python, OpenAI | [View Repo](https://github.com) |
+| **`ui-library`** | Lightweight custom SVG icon engine. | TypeScript, React | [View Repo](
+https://github.com
+) |
 
-Email
+</details>
 
 ---
 
-```text
-SYSTEM STATUS : ONLINE
+### 🌐 Connect with Me
 
-CURRENT MODE  : LEARNING
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com" target="_blank">
+    <img src="
+	https://shields.io
+	" alt="Twitter"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="
+	https://shields.io
+	" alt="Email"/>
+  </a>
+</p>
 
-BUILD VERSION : 1.0
-
-TARGET MODE   : AI ENGINEER
-```
